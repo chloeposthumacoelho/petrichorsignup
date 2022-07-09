@@ -1,0 +1,16 @@
+.btn {
+    font-size: 16px;
+    line-height: 20px;
+    padding: 8px 30px;
+    border-radius: 20px;
+    border-color: #4848b3e3;
+    background-color: #5855e7;
+    background: rgb(96,90,202);
+    background: linear-gradient(90deg, rgba(96,90,202,1) 0%, rgba(1,15,59,0.950315160243785) 100%, rgba(84,29,143,1) 0%, rgba(28,42,144,1) 100%);
+    color: #fff;
+    cursor: pointer;
+}
+.btn:hover {
+    background: rgb(133, 127, 243);
+    background: linear-gradient(-90deg, rgba(96,90,202,1) 0%, rgba(19,54,163,0.950315160243785) 100%, rgba(84,29,143,1) 0%, rgba(28,42,144,1) 100%);
+}
